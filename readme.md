@@ -1,5 +1,7 @@
 # Python简单爬虫
-慕课网课程：https://www.imooc.com/learn/563 相关代码
+慕课网课程：https://www.imooc.com/learn/563 相关代码 
+
+课程学习笔记见 https://www.cnblogs.com/rookieveteran/p/13325318.html
 
 ## 插件
 ```shell
